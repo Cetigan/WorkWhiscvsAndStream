@@ -1,0 +1,50 @@
+1.999.md-Сheck translations of rubrics for "ru" and "ro" languages 999.md
+2.Steps:
+ 1.go to 999.md
+ 2.Сheck names of rubrics
+
+3.Expected Results for "ru":Транспорт
+                            Недвижимость
+                            Телефоны, связь и гаджеты
+                            Компьютеры и оргтехника
+                            Строительство и ремонт
+                            Одежда, обувь и аксессуары
+                            Мебель и интерьер
+                            Аудио-Видео-Фото
+                            Все остальное
+                            Работа
+                            Сельское хозяйство
+                            Услуги
+                            Питомцы и растения
+                            Спорт, здоровье, красота
+                            Туризм, отдых и развлечения
+                            Бизнес
+                            Музыкальные инструменты
+                            Бытовая техника
+                            Все для торжеств
+                            Детский мир
+                            Все для дома и офиса
+                            Знакомства
+
+                     for "ro":Transport
+                              Imobiliare
+                              Aparate telefonice și gadget-uri
+                              Calculatoare și birotică
+                              Construcții și reparații
+                              Haine, încălțăminte și accesorii
+                              Mobilă și interior
+                              Audio-Video-Foto
+                              Diverse
+                              Oferte de lucru
+                              Gospodăria țărănească
+                              Servicii
+                              Animale de companie și plante
+                              Sport, sănătate, frumusețe
+                              Turism, recreație și divertisment
+                              Business
+                              Instrumente muzicale
+                              Tehnică de uz casnic
+                              Totul pentru sărbători
+                              Lumea copiilor
+                              Totul pentru casă și oficiu
+                              Matrimoniale
